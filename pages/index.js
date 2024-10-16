@@ -6,7 +6,9 @@ const Home = () => {
   return (
     <div className="container card mt-5 p-5">
       <h1 className="text-center">Welcome to the Quiz App</h1>
-      <p className="text-center">Select a category to get started:</p>
+      <p className="text-center">
+        To get started you must first select a category
+      </p>
       <div className="d-flex justify-content-center flex-column align-items-center">
         {/* Displaying categories */}
         {categories.map((category) => (
