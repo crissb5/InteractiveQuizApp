@@ -61,7 +61,8 @@ const NewQuestionForm = () => {
 
   return (
     <div className="mt-5">
-      <h3>Add a New Question</h3>
+      <h3>Got suggestions?</h3>
+      <h4>Add a New Question</h4>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label>Category</label>
