@@ -1,0 +1,173 @@
+{
+  "math": [
+    {
+      "id": "q1",
+      "question": "What is 2 + 2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "q2",
+      "question": "What is 5 * 6?",
+      "options": [
+        "30",
+        "26",
+        "31",
+        "28"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "q3",
+      "question": "What is 9 * 6?",
+      "options": [
+        "54",
+        "46",
+        "50",
+        "100"
+      ],
+      "answer": "54"
+    },
+    {
+      "id": "q4",
+      "question": "What is the square of the number 7?",
+      "options": [
+        "30",
+        "46",
+        "49",
+        "28"
+      ],
+      "answer": "49"
+    },
+    {
+      "id": "q5",
+      "question": "What is the square root of 144?",
+      "options": [
+        "16",
+        "14",
+        "11",
+        "12"
+      ],
+      "answer": "12"
+    }
+  ],
+  "science": [
+    {
+      "id": "q1",
+      "question": "What is H2O commonly known as?",
+      "options": [
+        "Oxygen",
+        "Water",
+        "Hydrogen",
+        "Carbon Dioxide"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "q2",
+      "question": "What planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "q3",
+      "question": "How many planets are in our solar system?",
+      "options": [
+        "11",
+        "9",
+        "10",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": "q4",
+      "question": "What is the standard boiling temperature of water?",
+      "options": [
+        "100°C",
+        "100°F",
+        "150°C",
+        "0°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": "q5",
+      "question": "How many different species of elephants are there?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "7"
+      ],
+      "answer": "3"
+    }
+  ],
+  "history": [
+    {
+      "id": "q1",
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "answer": "George Washington"
+    },
+    {
+      "id": "q2",
+      "question": "In which year did World War II end?",
+      "options": [
+        "1945",
+        "1939",
+        "1941",
+        "1944"
+      ],
+      "answer": "1945"
+    },
+    {
+      "id": "q3",
+      "question": "Where does the Nobel Prize get its name?",
+      "options": [
+        "Albert Einstein",
+        "Alfred Nobel",
+        "Sir Alexander Fleming",
+        "John Adams"
+      ],
+      "answer": "Alfred Nobel"
+    },
+    {
+      "id": "q4",
+      "question": "Which president of the United States received a Nobel Prize?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "George W. Bush",
+        "Barack Obama"
+      ],
+      "answer": "Barack Obama"
+    },
+    {
+      "id": "q5",
+      "question": "When did the World Trade Center (The Towers) collapsed in Manhattan, New York?",
+      "options": [
+        "11 September 2001",
+        "11 September 2021",
+        "1 October 1990",
+        "15 November 2010"
+      ],
+      "answer": "11 September 2001"
+    }
+  ]
+}

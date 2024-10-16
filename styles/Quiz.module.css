@@ -1,0 +1,48 @@
+/* styles/Quiz.module.css */
+
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: #333;
+}
+
+.question {
+  font-size: 20px;
+}
+
+.button {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.feedback {
+  font-weight: bold;
+}
+
+/* styles/Quiz.module.css */
+
+.returnButton {
+  padding: 10px;
+  margin: 15px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #0070f3; /* Change to your preferred color */
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.returnButton:hover {
+  background-color: #005bb5; /* Darker shade for hover effect */
+}
